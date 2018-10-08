@@ -8,6 +8,9 @@
 ### Linear Fit
 ![](https://github.com/mohammaduzair9/Numerical-Analysis-using-Matlab/blob/master/Curve%20Fitting/CurveFitting-VS-Interpolation/LinearFit.png)
 
+### Quadratric Fit
+![](https://github.com/mohammaduzair9/Numerical-Analysis-using-Matlab/blob/master/Curve%20Fitting/QuadraticFitting/QuadraticFitting.png)
+
 
 ## Numerical Differentiation
 
