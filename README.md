@@ -16,6 +16,10 @@
 
 ## Numerical Differentiation
 
+* Newton Forward Interpolation
+* Newton Backward Interpolation
+* Stirling Central Formula
+
 ## Numerical Integration
 
 ## Root Finding
