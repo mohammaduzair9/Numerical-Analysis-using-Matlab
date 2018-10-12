@@ -16,10 +16,16 @@
 
 ## Numerical Differentiation
 
-* Newton Forward Interpolation
-* Newton Backward Interpolation
-* Stirling Central Formula
+* 	Newton Forward Interpolation
+* 	Newton Backward Interpolation
+* 	Stirling Central Formula
 
 ## Numerical Integration
 
 ## Root Finding
+
+* 	Bisection method
+*	Newton Method
+* 	Fixed Point Method
+*	Regular Falsi Method
+* 	Newton Raaphson Method
