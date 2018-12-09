@@ -1,31 +1,31 @@
 # Numerical Analysis Using Matlab
 
-## Curve Fitting
+### Curve Fitting
 
-### Interpolation
+* Interpolation
 ![](https://github.com/mohammaduzair9/Numerical-Analysis-using-Matlab/blob/master/Curve%20Fitting/CurveFitting-VS-Interpolation/Interpolation.png)
 
-### Linear Fit
+* Linear Fit
 ![](https://github.com/mohammaduzair9/Numerical-Analysis-using-Matlab/blob/master/Curve%20Fitting/CurveFitting-VS-Interpolation/LinearFit.png)
 
-### Quadratric Fit
+* Quadratric Fit
 ![](https://github.com/mohammaduzair9/Numerical-Analysis-using-Matlab/blob/master/Curve%20Fitting/QuadraticFitting/QuadraticFitting.png)
 
-### 3rd & 4th Order Fit
+* 3rd & 4th Order Fit
 ![](https://github.com/mohammaduzair9/Numerical-Analysis-using-Matlab/blob/master/Curve%20Fitting/3rd_4th_OrderFitting/3rd_4th_OrderFitting.png)
 
-## Numerical Differentiation
+### Numerical Differentiation
 
 * 	Newton Forward Interpolation
 * 	Newton Backward Interpolation
 * 	Stirling Central Formula
 
-## Numerical Integration
+### Numerical Integration
 
-## Root Finding
+### Root Finding
 
 * 	Bisection method
 *	Newton Method
 * 	Fixed Point Method
 *	Regular Falsi Method
-* 	Newton Raaphson Method
+* 	Newton Raphson Method
